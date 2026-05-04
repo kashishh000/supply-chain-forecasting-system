@@ -25,4 +25,4 @@ Supply chain efficiency is critical to reducing operational costs. This data sci
 ## 🚀 Business Impact
 *   **Reduced Stockouts:** Forecasting model predicts demand with a MAPE (Mean Absolute Percentage Error) of 14%, significantly reducing out-of-stock scenarios.
 *   **Cost Savings:** Identified inefficient shipping routes, potentially saving 8% in logistical costs.
-*   *(Placeholder: Insert screenshot of the Power BI Supply Chain Dashboard)*
+
